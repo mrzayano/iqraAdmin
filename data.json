@@ -1,25 +1,390 @@
 [
   [
     {
-      "id": 1737383380385,
-      "companyLogo": "dfd",
-      "location": "ddddfdf",
-      "timePosted": "dfdff",
-      "jobTitle": "dfdf",
-      "endDate": "dfdf",
-      "detailsLink": "fdff",
+      "id":"1",
+      "companyLogo": "assets/images/company/mosque.png",
+      "location": "Alathur, Palakkad",
+      "timePosted": "16th Jan, 2025",
+      "jobTitle": "മുഅദ്ദിൻ ആവശ്യം",
+      "endDate": "10/2/25",
+      "detailsLink": "alathur-muaddin-16-1-25",
       "details": [
         {
-          "employeeType": "sdsdsd",
-          "location": "ddddfdf",
-          "jobType": "sdd",
-          "experience": "dsdsd",
-          "qualifications": "sds",
-          "duration": "dsd",
-          "datePosted": "dsd",
-          "jobDescription": "dsds",
-          "responsibilitiesAndDuties": "dsds",
-          "actionLink": "dssd"
+          "employeeType": "Full Time",
+          "location": "Alathur, Palakkad district",
+          "jobType": "Mu'addin",
+          "experience": "Not specified",
+          "qualifications": "Must have MSR certification",
+          "datePosted": "16th Jan, 2025",
+          "jobDescription": "പാലക്കാട് ആലത്തൂർ ഭാഗത്ത് മുഅദ്ദിനിനെ ആവശ്യമുണ്ട്. MSR നിർബന്ധമാണ്.",
+          "responsibilitiesAndDuties": "Perform duties of a Mu'addin as per masjid requirements.",
+          "contactName": "Not specified",
+          "actionLink": "https://wa.me/919744192135"
+        }
+      ]
+    },
+    {
+      "id":"2",
+      "companyLogo": "assets/images/company/madrasa-mosque.png",
+      "location": "Malappuram district",
+      "timePosted": "16th Jan, 2025",
+      "jobTitle": "ഖതീബ് (Khateeb) & മുദരിസ് (Mudarris)",
+      "endDate": "10/2/25",
+      "detailsLink": "malappuram-khateeb-mudarris-requirement-16-1-25",
+      "details": [
+        {
+          "employeeType": "Full Time",
+          "location": "Malappuram district",
+          "jobType": "Khateeb & Mudarris",
+          "experience": "Not specified",
+          "qualifications": "Samastakaar (Samastha-aligned individual) with the ability to manage at least 20 students.",
+          "datePosted": "16th Jan, 2025",
+          "jobDescription": "മലപ്പുറം ഭാഗത്തേക്ക്‌ സമസ്തക്കാരനായ, 20 കുട്ടികൾ കുറയാത്ത ഖതീബും മുദരിസിനെയും ആവശ്യമുണ്ട്.",
+          "responsibilitiesAndDuties": "Perform Khateeb duties and teach Madrasah classes.",
+          "salary": "Not specified",
+          "contactName": "Not specified",
+          "notes": "Only Samastakaar candidates are considered.",
+          "actionLink": "https://wa.me/919744687280"
+        }
+      ]
+    },
+    {
+      "id":"3",
+      "companyLogo": "assets/images/company/mosque.png",
+      "location": "Kozhikode district",
+      "timePosted": "20th Jan, 2025",
+      "jobTitle": "മുഅദ്ദിൻ (Muaddhin) & Madrasah Position",
+      "endDate": "10/2/25",
+      "detailsLink": "kozhikode-muaddhin-requirement-16-1-25",
+      "details": [
+        {
+          "employeeType": "Full Time",
+          "location": "Kozhikode district",
+          "jobType": "Muaddhin & Madrasah Teacher",
+          "experience": "Not specified",
+          "qualifications": "Samastakaar (Samastha-aligned individual) with excellent Qir'aat skills",
+          "datePosted": "16th Jan, 2025",
+          "jobDescription": "കോഴിക്കോട് ജില്ലയിലേക്ക് മുഹദ്ദിൻ മദ്രസ ഒഴിവിലേക്ക് സമസ്തക്കാരനായ ഒരു ഉസ്താദിനെ ആവശ്യമുണ്ട്. നാളെത്തന്നെ ഡ്യൂട്ടിയിൽ കയറാൻ പറ്റുന്ന ഖിറാഅത്ത് ഉഷാറുള്ള ആളായിരിക്കണം.",
+          "responsibilitiesAndDuties": "Perform Muaddhin duties and teach Madrasah classes as required.",
+          "salary": "₹15,000",
+          "contactName": "Not specified",
+          "actionLink": "https://wa.me/919562729382"
+        }
+      ]
+    },
+    {
+      "id":"4",
+      "companyLogo": "assets/images/company/madrasa-mosque.png",
+      "location": "Changaramkulam, Kokkur",
+      "timePosted": "16th Jan, 2025",
+      "jobTitle": "ഖത്തീബ് & മദ്റസാ സദർ മുഅല്ലിം",
+      "endDate": "10/2/25",
+      "detailsLink": "changaramkulam-khateeb-muallim-16-1-25",
+      "details": [
+        {
+          "employeeType": "Full Time",
+          "location": "Changaramkulam, Kokkur region",
+          "jobType": "Khateeb & Madrasah Sadr Muallim",
+          "experience": "Not specified",
+          "qualifications": "Relevant experience in both Khutbah and Madrasah teaching",
+          "datePosted": "16th Jan, 2025",
+          "jobDescription": "ചങ്ങരംകുളം കൊക്കൂർ ഭാഗത്ത് മഹല്ലിലേക്ക് ഒരു ഖത്തീബ് & മദ്റസാ സദർ മുഅല്ലിമുമായി സേവനം ചെയ്യാൻ ആളെ ആവശ്യമുണ്ട്.",
+          "responsibilitiesAndDuties": "Perform khutbah duties and manage madrasah teaching responsibilities effectively.",
+          "contactName": "Not specified",
+          "actionLink": "https://wa.me/919539161784"
+        }
+      ]
+    },
+    {
+      "id":"5",
+      "companyLogo": "assets/images/company/madrasa.png",
+      "location": "Palakkad",
+      "timePosted": "16th Jan, 2025",
+      "jobTitle": "സ്കൂൾ ട്യൂഷനും ഓഫീസ് ജോലിക്കും സ്റ്റാഫ് ആവശ്യം",
+      "endDate": "10/2/25",
+      "detailsLink": "mannarkkad-institute-16-1-25",
+      "details": [
+        {
+          "employeeType": "Full Time",
+          "location": "Mannarkkad, Palakkad district",
+          "jobType": "School Tuition and Office Work",
+          "experience": "Not specified",
+          "qualifications": "Ability to manage tuition and office work",
+          "datePosted": "16th Jan, 2025",
+          "jobDescription": "പാലക്കാട് ജില്ലയിൽ മണ്ണാർക്കാടിനടുത്ത് പ്രവർത്തിച്ച് വരുന്ന ദീനീ സ്ഥാപനത്തിലേക്ക് സ്കൂൾ റ്റ്യൂഷനും ഓഫീസ് വർക്കും ചെയ്യാൻ കഴിവുള്ള സ്റ്റാഫിനെ ആവശ്യമുണ്ട്. മാന്യമായ ശമ്പളം പ്രതീക്ഷിക്കാം.",
+          "responsibilitiesAndDuties": "Handle tuition classes and manage office tasks.",
+          "contactName": "Not specified",
+          "actionLink": "https://wa.me/919847387878"
+        }
+      ]
+    },
+    {
+      "id":"6",
+      "companyLogo": "assets/images/company/mosque.png",
+      "location": "Malappuram",
+      "timePosted": "16th Jan, 2025",
+      "jobTitle": "ദർസ് പോസ്റ്റ്‌",
+      "endDate": "10/2/25",
+      "detailsLink": "dars-moonniyoor-16-1-25",
+      "details": [
+        {
+          "employeeType": "Permanent",
+          "location": "Malappuram, Moonniyur (Athanikal Jumu'ah Masjid)",
+          "jobType": "ദർസ് അദ്ധ്യാപകൻ",
+          "experience": "Not specified",
+          "qualifications": "സമസ്ത അംഗത്വം നിർബന്ധം",
+          "datePosted": "16th Jan, 2025",
+          "jobDescription": "6 - 10 വരെ കുട്ടികൾ ഉള്ള ദർസിന് റമളാനിന് ശേഷം അവസരം.",
+          "responsibilitiesAndDuties": "Not Available at this time",
+          "actionLink": "https://wa.me/919400460845"
+        }
+      ]
+    },
+    {
+      "id":"7",
+      "companyLogo": "assets/images/company/mosque.png",
+      "location": "Kozhikode",
+      "timePosted": "Just now",
+      "jobTitle": "ഖത്വീബ്",
+      "endDate": "10/2/25",
+      "detailsLink": "khatib-vadakara-10-1-25",
+      "details": [
+        {
+          "employeeType": "Full Time",
+          "location": "Kozhikode, Vadakara",
+          "jobType": "ഖത്വീബ്",
+          "experience": "Not specified",
+          "qualifications": "Samastha MSR",
+          "datePosted": "10th Jan, 2025",
+          "jobDescription": "കോഴിക്കോട് ജില്ല യിൽ വടകര ഭാഗത്ത് ഒരു ഖത്വീബിനെ ആവശ്യമുണ്ട്. സമസ്തക്കാരനായ MSR ഉളള, നല്ല ഖിറാഅത്തും പ്രസംഗിക്കാൻ കഴിവുള്ളവരും ആയിരിക്കണം “കണ്ണൂർ, കോഴിക്കോട്,മലപ്പുറം, പാലക്കാട് ഈ ജില്ലയിൽ ഉള്ളവർ വിളിക്കുക” .",
+          "responsibilitiesAndDuties": "Not Available at this time",
+          "actionLink": "https://wa.me/919947614754"
+        }
+      ]
+    },
+    {
+      "id":"8",
+      "companyLogo": "assets/images/company/mosque.png",
+      "location": "Palakkad",
+      "timePosted": "Just now",
+      "jobTitle": "മുഅദ്ദിൻ",
+      "endDate": "16/01/25",
+      "detailsLink": "muaddin-thrithala-10-1-25",
+      "details": [
+        {
+          "employeeType": "Full Time",
+          "location": "Palakkad",
+          "jobType": "മുഅദ്ദിൻ",
+          "experience": "Not specified",
+          "qualifications": "Not specified",
+          "datePosted": "10th Jan, 2025",
+          "joinDate": "16th Jan, 2025",
+          "jobDescription": "ഒരു മുഅദ്ദിൻ ആവശ്യമുണ്ട് (തൃത്താല), പാലക്കാട്‌ ജില്ല. ജോയിൻ ഡേറ്റ്: 16/01/2025.",
+          "responsibilitiesAndDuties": "Not Available at this time",
+          "actionLink": "https://wa.me/916282136673"
+        }
+      ]
+    },
+    {
+      "id":"9",
+      "companyLogo": "assets/images/company/mosque.png",
+      "location": "Kozhikode",
+      "timePosted": "16th Jan, 2025, 2:52 PM",
+      "jobTitle": "ഖത്തീബ്",
+      "endDate": "10/2/25",
+      "detailsLink": "khatib-vadakara-16-1-25",
+      "details": [
+        {
+          "employeeType": "Full Time",
+          "location": "Kozhikode, Vadakara",
+          "jobType": "ഖത്തീബ്",
+          "experience": "Not specified",
+          "qualifications": "MSR നിർബന്ധം",
+          "datePosted": "16th Jan, 2025",
+          "jobDescription": "വടകര ഭാഗത്തു ഖത്തീബ് പോസ്റ്റ്‌ ഒഴിവുണ്ട്.",
+          "responsibilitiesAndDuties": "Not Available at this time",
+          "actionLink": "https://wa.me/919539120840"
+        }
+      ]
+    },
+    {
+      "id":"10",
+      "companyLogo": "assets/images/company/mosque.png",
+      "location": "Kozhikode City",
+      "timePosted": "Just now",
+      "jobTitle": "മുദരിസ് & ഖത്തീബ്",
+      "endDate": "10/2/25",
+      "detailsLink": "mudarris-kozhikode-16-1-25",
+      "details": [
+        {
+          "employeeType": "Full Time",
+          "location": "Kozhikode City",
+          "jobType": "മുദരിസ് & ഖത്തീബ്",
+          "experience": "Not specified",
+          "qualifications": "സമസ്തയുടെ അടിയുറച്ച പ്രവർത്തകൻ. നാരിയ്യത്ത് സ്വലാത്ത്- മജ്ലിസുന്നൂർ എന്നീ ആത്മീയ സംഗമങ്ങൾക്ക് നേതൃത്വം നൽകാനും പ്രസംഗിക്കാൻ കഴിവുള്ളതും ആയിരിക്കണം.",
+          "datePosted": "16th Jan, 2025",
+          "joinDate": "After Ramadan",
+          "jobDescription": "10 മുതൽ 12 വരെ മുതഅല്ലിമീങ്ങൾ ഉള്ള മുദരിസിനെ ആവശ്യമുണ്ട്. കൂടാതെ ഖത്തീബ് ചുമതലയും ഉണ്ടായിരിക്കും. മാന്യമായ ശമ്പളം ലഭ്യമാണ്.",
+          "responsibilitiesAndDuties": "Not Available at this time",
+          "actionLink": "https://wa.me/919995421095"
+        }
+      ]
+    },
+    {
+      "id":"11",
+      "companyLogo": "assets/images/company/madrasa.png",
+      "location": "Tirur",
+      "timePosted": "Just now",
+      "jobTitle": "മദ്റസ മുഅല്ലിം",
+      "endDate": "10/2/25",
+      "detailsLink": "muallim-tirur-10-1-25",
+      "details": [
+        {
+          "employeeType": "Temporary",
+          "location": "Tirur",
+          "jobType": "മദ്റസ അധ്യാപകൻ",
+          "experience": "Updated MSR",
+          "qualifications": "Not specified",
+          "duration": "1 month",
+          "datePosted": "10th Jan, 2025",
+          "jobDescription": "തിരൂർ ഭാഗത്തേക്ക് രാവിലെ 6:30 മുതൽ 8:30 വരെ 2 ക്ലാസ്സ് എടുക്കാൻ കഴിവുള്ള പുതുക്കിയ MSR ഉള്ള അദ്ധ്യാപകനെ ഒരു മാസത്തേക്ക് ആവശ്യമുണ്ട്. മാന്യമായ ശമ്പളം + ഭക്ഷണം. താമസം ഇല്ല, വന്ന് പോകുന്നവരെ വേണം.",
+          "responsibilitiesAndDuties": "Not Available at this time",
+          "actionLink": "https://wa.me/917356690801"
+        }
+      ]
+    },
+    {
+      "id":"12",
+      "companyLogo": "assets/images/company/madrasa.png",
+      "location": "Kannur, Munderi Range",
+      "timePosted": "Just now",
+      "jobTitle": "മുഅദ്ദിൻ & മുഅല്ലിം",
+      "endDate": "10/2/25",
+      "detailsLink": "muaddin-muallim-kannur-10-1-25",
+      "details": [
+        {
+          "employeeType": "Temporary",
+          "location": "Kannur",
+          "jobType": "മുഅദ്ദിൻ & മുഅല്ലിം",
+          "experience": "Not specified",
+          "qualifications": "Not specified",
+          "duration": "12 days (15th Jan to 26th Jan, 2025)",
+          "datePosted": "10th Jan, 2025",
+          "jobDescription": "കണ്ണൂർ ജില്ലയിൽ മുണ്ടേരി റൈയ്ഞ്ചിൽ ജനുവരി 15 മുതൽ 26 വരേ (12 ദിവസത്തേക്ക്) മുഅദ്ദിൻ & മുഅല്ലിം ആവിശ്യമുണ്ട്  CALL ONLY.",
+          "responsibilitiesAndDuties": "Not Available at this time",
+          "actionLink": "https://wa.me/919778782180"
+        }
+      ]
+    },
+    {
+      "id":"13",
+      "companyLogo": "assets/images/company/madrasa-mosque.png",
+      "location": "Kasaragod",
+      "timePosted": "Just now",
+      "jobTitle": "പകരം നിൽക്കാൻ ഉസ്താദ്",
+      "endDate": "10/2/25",
+      "detailsLink": "ustad-kasaragod-10-1-25",
+      "details": [
+        {
+          "employeeType": "Temporary",
+          "location": "Kasaragod, Neeleswaram, Kotappuram, Anachal, Kilar Masjid",
+          "jobType": "ഉസ്താദ്",
+          "experience": "Not specified",
+          "qualifications": "Not specified",
+          "duration": "13th Jan (Monday) to 19th Jan (Sunday), 2025",
+          "datePosted": "10th Jan, 2025",
+          "jobDescription": "കാസർകോട് ജില്ലയിൽ നീലേശ്വരം മാർക്കറ്റ്ന് അടുത്ത് കോട്ടപ്പുറം ആനച്ചാൽ, ഖിളർ മസ്ജിദിലേക്കും, മദ്രസയിലേക്കും 2025 ജനുവരി, 13, തിങ്കൾ മുതൽ, 19, ഞായർ കൂടിയ ദിവസങ്ങൾ വരെ നിൽക്കാൻ പറ്റുന്നവർ ഈ നമ്പറിൽ ബന്ധപ്പെടുക.",
+          "responsibilitiesAndDuties": "Not Available at this time",
+          "actionLink": "https://wa.me/919061928906"
+        }
+      ]
+    },
+    {
+      "id":"14",
+      "companyLogo": "assets/images/company/mosque.png",
+      "location": "Thrissur",
+      "timePosted": "Just now",
+      "jobTitle": "മുഅദ്ദിൻ",
+      "endDate": "10/2/25",
+      "detailsLink": "muaddin-thrissur-10-1-25",
+      "details": [
+        {
+          "employeeType": "Full Time",
+          "location": "Thrissur",
+          "jobType": "മുഅദ്ദിൻ",
+          "experience": "Not specified",
+          "qualifications": "Not specified",
+          "datePosted": "10th Jan, 2025",
+          "jobDescription": "മുഅദ്ദിൻ പോസ്റ്റ്‌ ഒഴിവാണ്. തൃശ്ശൂരിൽ പ്രവർത്തിക്കുന്ന മസ്ജിദിൽ ആണ് ഈ ഒഴിവ്.",
+          "responsibilitiesAndDuties": "Not Available at this time",
+          "actionLink": "https://wa.me/919446239398"
+        }
+      ]
+    },
+    {
+      "id":"15",
+      "companyLogo": "assets/images/company/mosque.png",
+      "location": "Kozhikode",
+      "timePosted": "Just now",
+      "jobTitle": "നിസ്കാര പള്ളി ഇമാം, ജുമുഅത്ത് പള്ളി മുഅദ്ദിൻ",
+      "endDate": "10/2/25",
+      "detailsLink": "imam-muaddin-kozhikode-10-1-25",
+      "details": [
+        {
+          "employeeType": "Full Time",
+          "location": "Kozhikode, Madavoor",
+          "jobType": "ഇമാം, മുഅദ്ദിൻ",
+          "experience": "Not specified",
+          "qualifications": "Not specified",
+          "datePosted": "10th Jan, 2025",
+          "jobDescription": "നിസ്കാര പള്ളി ഇമാം, ജുമുഅത്ത് പള്ളിയിൽ മുഅദ്ദിൻ സേവനം (ഖബർസ്ഥാൻ, ജുമുഅത്ത് പള്ളി).",
+          "responsibilitiesAndDuties": "Not Available at this time",
+          "actionLink": "https://wa.me/919946774420"
+        }
+      ]
+    },
+    {
+      "id":"16",
+      "companyLogo": "assets/images/company/mosque.png",
+      "location": "Palakkad",
+      "timePosted": "Just now",
+      "jobTitle": "അസിസ്റ്റൻറ് ഖത്തീബ്, മദ്രസ 1,5,10 ക്ലാസുകൾ",
+      "endDate": "10/2/25",
+      "detailsLink": "assistant-khatib-palakkad-10-1-25",
+      "details": [
+        {
+          "employeeType": "Temporary",
+          "location": "Palakkad, Ottappalam",
+          "jobType": "അസിസ്റ്റൻറ് ഖത്തീബ്, മദ്രസ 1,5,10 ക്ലാസുകൾ",
+          "experience": "Not specified",
+          "qualifications": "Not specified",
+          "duration": "2 weeks",
+          "datePosted": "10th Jan, 2025",
+          "jobDescription": "പാലക്കാട് ഒറ്റപ്പാലം ഭാഗത്ത്, അസിസ്റ്റൻറ് ഖത്തീബ്, മദ്രസ 1,5,10 ക്ലാസുകളും എടുക്കാനും ആയി രണ്ടാഴ്ച്ചത്തേക്ക് ഒരാളെ ആവശ്യമുണ്ട് (ഉസ്താദ് ഹോസ്പിറ്റൽ ആവശ്യത്തിന് ലീവിലാണ്).",
+          "responsibilitiesAndDuties": "Not Available at this time",
+          "actionLink": "https://wa.me/918606498786"
+        }
+      ]
+    },
+    {
+      "id":"17",
+      "companyLogo": "assets/images/company/mosque.png",
+      "location": "Kannur",
+      "timePosted": "16th Jan, 2025",
+      "jobTitle": "ഉസ്താദ് ജോലിയുടെ അവസരം",
+      "endDate": "10/2/25",
+      "detailsLink": "ustad-chuzhali-16-1-25",
+      "details": [
+        {
+          "employeeType": "Full Time",
+          "location": "Kannur, Chuzhali",
+          "jobType": "നിസ്കാര പള്ളി & മദ്റസ മുഅല്ലിമി",
+          "experience": "Not specified",
+          "qualifications": "MSR നിർബന്ധം",
+          "datePosted": "16th Jan, 2025",
+          "jobDescription": "നിസ്കാര പള്ളി & മദ്റസ മുഅല്ലിമിനെ ആവശ്യമുണ്ട്. കണ്ണൂർ ജില്ലക്കാർക്ക് മുൻഗണന. പെട്ടന്ന് ജോയിൻ ചെയ്യണം.",
+          "responsibilitiesAndDuties": "Not Available at this time",
+          "actionLink": "https://wa.me/919745253804"
         }
       ]
     }
