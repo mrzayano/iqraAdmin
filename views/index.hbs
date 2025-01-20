@@ -1,0 +1,17 @@
+<section class="bg-white p-6 rounded shadow">
+  <h2 class="text-2xl font-bold mb-4">Job Listings</h2>
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+    {{#each jobs}}
+      <div class="border rounded p-4 bg-gray-50">
+        <img src="{{companyLogo}}" alt="Company Logo" class="h-16 mb-4">
+        <h3 class="text-lg font-bold">{{jobTitle}}</h3>
+        <p><strong>Location:</strong> {{location}}</p>
+        <p><strong>Posted:</strong> {{timePosted}}</p>
+        <p><strong>Description:</strong> {{details.[0].jobDescription}}</p>
+        <form action="/delete-job/{{id}}" method="POST" class="mt-4">
+          <button type="submit" class="bg-red-500 text-white px-4 py-2 rounded shadow">Delete</button>
+        </form>
+      </div>
+    {{/each}}
+  </div>
+</section>

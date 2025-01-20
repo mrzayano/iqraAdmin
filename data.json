@@ -1,0 +1,27 @@
+[
+  [
+    {
+      "id": 1737383380385,
+      "companyLogo": "dfd",
+      "location": "ddddfdf",
+      "timePosted": "dfdff",
+      "jobTitle": "dfdf",
+      "endDate": "dfdf",
+      "detailsLink": "fdff",
+      "details": [
+        {
+          "employeeType": "sdsdsd",
+          "location": "ddddfdf",
+          "jobType": "sdd",
+          "experience": "dsdsd",
+          "qualifications": "sds",
+          "duration": "dsd",
+          "datePosted": "dsd",
+          "jobDescription": "dsds",
+          "responsibilitiesAndDuties": "dsds",
+          "actionLink": "dssd"
+        }
+      ]
+    }
+  ]
+]

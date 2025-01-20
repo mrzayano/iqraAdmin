@@ -1,0 +1,67 @@
+<section class="bg-white p-6 rounded shadow">
+  <h2 class="text-2xl font-bold mb-4">Add a Job</h2>
+  <form action="/add-job" method="POST" class="space-y-4">
+    <div>
+      <label for="companyLogo" class="block font-bold">Company Logo:</label>
+      <input type="text" name="companyLogo" id="companyLogo" class="w-full border rounded p-2" required>
+    </div>
+    <div>
+      <label for="location" class="block font-bold">Location:</label>
+      <input type="text" name="location" id="location" class="w-full border rounded p-2" required>
+    </div>
+    <div>
+      <label for="timePosted" class="block font-bold">Time Posted:</label>
+      <input type="text" name="timePosted" id="timePosted" class="w-full border rounded p-2" required>
+    </div>
+    <div>
+      <label for="jobTitle" class="block font-bold">Job Title:</label>
+      <input type="text" name="jobTitle" id="jobTitle" class="w-full border rounded p-2" required>
+    </div>
+    <div>
+      <label for="endDate" class="block font-bold">End Date:</label>
+      <input type="text" name="endDate" id="endDate" class="w-full border rounded p-2" required>
+    </div>
+    <div>
+      <label for="detailsLink" class="block font-bold">Details Link:</label>
+      <input type="text" name="detailsLink" id="detailsLink" class="w-full border rounded p-2" required>
+    </div>
+    <h3 class="text-lg font-bold mt-4">Job Details</h3>
+    <div>
+      <label for="employeeType" class="block font-bold">Employee Type:</label>
+      <input type="text" name="employeeType" id="employeeType" class="w-full border rounded p-2" required>
+    </div>
+    <div>
+      <label for="jobType" class="block font-bold">Job Type:</label>
+      <input type="text" name="jobType" id="jobType" class="w-full border rounded p-2" required>
+    </div>
+    <div>
+      <label for="experience" class="block font-bold">Experience:</label>
+      <input type="text" name="experience" id="experience" class="w-full border rounded p-2">
+    </div>
+    <div>
+      <label for="qualifications" class="block font-bold">Qualifications:</label>
+      <input type="text" name="qualifications" id="qualifications" class="w-full border rounded p-2">
+    </div>
+    <div>
+      <label for="duration" class="block font-bold">Duration:</label>
+      <input type="text" name="duration" id="duration" class="w-full border rounded p-2">
+    </div>
+    <div>
+      <label for="datePosted" class="block font-bold">Date Posted:</label>
+      <input type="text" name="datePosted" id="datePosted" class="w-full border rounded p-2" required>
+    </div>
+    <div>
+      <label for="jobDescription" class="block font-bold">Job Description:</label>
+      <textarea name="jobDescription" id="jobDescription" class="w-full border rounded p-2" required></textarea>
+    </div>
+    <div>
+      <label for="responsibilitiesAndDuties" class="block font-bold">Responsibilities and Duties:</label>
+      <textarea name="responsibilitiesAndDuties" id="responsibilitiesAndDuties" class="w-full border rounded p-2"></textarea>
+    </div>
+    <div>
+      <label for="actionLink" class="block font-bold">whatsapp Link:</label>
+      <input type="text" name="actionLink" id="actionLink" class="w-full border rounded p-2" required>
+    </div>
+    <button type="submit" class="bg-blue-500 text-white px-4 py-2 rounded shadow">Add Job</button>
+  </form>
+</section>
