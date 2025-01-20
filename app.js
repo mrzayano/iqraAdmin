@@ -15,7 +15,26 @@ app.set('view engine', 'hbs');
 
 //cors 
 const cors = require('cors');
-app.use(cors({ origin: 'http://127.0.0.1:5501' || 'https://www.iqrahire.in' || 'https://iqrahire.in/' }));
+
+// Define the list of allowed origins
+const allowedOrigins = [
+  'http://127.0.0.1:5501',
+  'https://www.iqrahire.in',
+  'https://iqrahire.in'
+];
+
+// Configure CORS
+app.use(cors({
+  origin: function (origin, callback) {
+    // Check if the incoming origin is in the allowed list
+    if (!origin || allowedOrigins.includes(origin)) {
+      callback(null, true); // Allow the request
+    } else {
+      callback(new Error('Not allowed by CORS')); // Block the request
+    }
+  },
+  methods: ['GET'], // Only allow GET requests
+}));
 
 
 app.use(logger('dev'));
