@@ -2,6 +2,7 @@ var express = require('express');
 var router = express.Router();
 var fs = require('fs');
 var path = require('path');
+const { json } = require('stream/consumers');
 
 /* GET home page - list all jobs. */
 router.get('/', function (req, res, next) {
@@ -23,7 +24,7 @@ router.get('/', function (req, res, next) {
       return res.status(500).send('Invalid JSON in data file');
     }
   });
-}); 
+});
 
 /* GET add job page. */
 router.get('/add-job', function (req, res, next) {
@@ -139,6 +140,25 @@ router.post('/delete-job/:id', function (req, res, next) {
 
         res.redirect('/'); // Redirect to the home page after deleting the job
       });
+    } catch (parseError) {
+      console.error('Error parsing JSON:', parseError);
+      return res.status(500).send('Invalid JSON in data file');
+    }
+  });
+});
+
+router.get('/data', (req, res) => {
+  const filePath = path.join(__dirname, '../data.json');
+
+  fs.readFile(filePath, 'utf8', (err, data) => {
+    if (err) {
+      console.error('Error reading data file:', err);
+      return res.status(500).send('Server Error');
+    }
+
+    try {
+      let jobdata = JSON.parse(data); // Parse the entire content of the file
+      res.send(jobdata); // Send the parsed job data as response
     } catch (parseError) {
       console.error('Error parsing JSON:', parseError);
       return res.status(500).send('Invalid JSON in data file');
